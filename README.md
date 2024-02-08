@@ -1,4 +1,4 @@
-# Laravel Shopping Cart Example
+# Laravel Store Shopping Cart In Session Example
 
 This is a simple Laravel project that demonstrates how to store and retrieve shopping cart data from and to the session without using any external packages. The project provides a basic implementation of managing a shopping cart for an e-commerce website.
 
