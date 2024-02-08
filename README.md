@@ -2,6 +2,12 @@
 
 This is a simple Laravel project that demonstrates how to store and retrieve shopping cart data from and to the session without using any external packages. The project provides a basic implementation of managing a shopping cart for an e-commerce website.
 
+
+![cart](https://github.com/salim-bamaud/Laravel-session-shoppingCart-example/assets/76965706/40056b86-1457-4bc9-af8d-d8c79b5075a1)
+
+
+
+
 ## Features
 
 - Add products to the shopping cart
