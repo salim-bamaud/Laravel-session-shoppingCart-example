@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* This one is not necessary. Tailwind will
+automatically inject it at compile time. */
+@tailwind variants;
